@@ -1,7 +1,3 @@
-# juejin 默认主题
+# juejin DEVUI蓝 主题
 
-主题列表：https://github.com/xitu/juejin-markdown-themes
-
-## License
-
-MIT
+掘金 markdown DEVUI蓝 主题
